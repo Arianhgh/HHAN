@@ -45,7 +45,6 @@ config = {
 - `maps/5x6.net.xml` - Small grid (testing)
 - `maps/UES_Manhatan.net.xml` - Manhattan network
 - `maps/toronto.net.xml` - Toronto network
-- `maps/cologne_100km2.net.xml` - Large Cologne network
 
 ## Architecture
 
