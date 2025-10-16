@@ -1,0 +1,19 @@
+# Core dependencies
+numpy>=1.21.0
+torch>=2.0.0
+gymnasium>=0.28.0
+matplotlib>=3.5.0
+networkx>=2.8.0
+scikit-learn>=1.0.0
+scikit-learn-extra>=0.2.0
+
+# SUMO traffic simulator
+# Note: SUMO must be installed separately. 
+# Visit: https://sumo.dlr.de/docs/Installing/index.html
+# After installation, ensure SUMO_HOME environment variable is set
+sumolib
+traci
+
+# Additional dependencies
+scipy>=1.9.0
+
